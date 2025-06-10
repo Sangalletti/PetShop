@@ -3,3 +3,9 @@ PetShop/
 ├── Animal.java        // Classe que representa um animal
 ├── PetShop.java       // Classe que representa o pet shop
 └── Main.java          // Classe com o método main para execução
+
+Animal.java: Provavelmente define atributos e comportamentos de um animal.
+
+PetShop.java: Deve gerenciar os animais e operações do pet shop.
+
+Main.java: O ponto de entrada para a execução do programa.
